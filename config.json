@@ -1,0 +1,48 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "THE VIRUS",
+  "name": " ATTENTION",
+  "ascii": "The Virus",
+  "social": {
+    "github": "github",
+    "linkedin": "linkedin",
+    "twitter": "https://twitter.com/thevirus_nft",
+    "acid": "https://twitter.com/4C1D1M4G1N4T1V3",
+    "twitteruncle": "https://twitter.com/thevirus_nft",
+    "twitteran3mbo": "https://twitter.com/thevirus_nft",
+    "resume": "https://twitter.com/BoredApeYC",
+    "opensea": "https://opensea.io",
+    "blur": "https://blur.io",
+     "wallet": " https://etherscan.io/address/0xd8da6bf26964af9d7eed9e03e53415d37aa9604",
+     "mint": "https://twitter.com/thevirus_nft"
+  },
+  "email": "contact@email.com",
+  "ps1_hostname": "THE VIRUS",
+  "ps1_username": "SURVIVOR",
+  "repo": "https://www.google.com/search?q=aaargh+real+monsters&rlz=1C1RXQR_enAU1017AU1017&sxsrf=APwXEddSuEBg-_L-8pBj6_14DwAi4xiT1Q:1682405204047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXvrjkt8T-AhXSD94KHRopAvoQ_AUoAXoECAEQAw&biw=1536&bih=656&dpr=1.25",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
